@@ -1,0 +1,28 @@
+.page-wrapper {
+  width: 100%;
+  min-height: 100vh;
+  padding: 40px;
+  display: flex;
+  justify-content: center; 
+  align-items: flex-start;
+}
+
+.dashboard-container {
+  width: 100%;
+  max-width: 1400px;    
+  background: rgba(255, 255, 255, 0.02);
+  border-radius: 20px;
+  padding: 40px;
+}
+
+.dashboard-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr; 
+  gap: 40px;
+}
+
+@media (max-width: 900px) {
+  .dashboard-content {
+    grid-template-columns: 1fr;
+  }
+}
