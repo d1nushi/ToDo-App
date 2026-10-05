@@ -1,4 +1,8 @@
-# Todo App — Full Stack (React + Flask + MySQL + Docker)
+# Todo App — Full Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 The project contains:
 
@@ -43,33 +47,5 @@ This README explains how to build, run, test, and understand the entire system.
 
 - http://localhost:5000
 
-
-# Technologies Used
-
-## Backend
-
-- Python 3.11
-
-- Flask
-
-- SQLAlchemy ORM
-
-- Flask-CORS
-
-- PyMySQL
-
-## Frontend
-
-- React + Vite
-
-- Axios
-
-- CSS
-
-## DevOps
-
-- Docker
-
-- Docker Compose
 
 
